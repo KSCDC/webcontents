@@ -17,7 +17,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # settings.py
 DEBUG = True
-SECRET_KEY = os.getenv('SECRET_KEY')
+SECRET_KEY = 'mdyiXoFR2grEF(#%~S$mx@5^(p!AHh{1El*t)70BJOMD!k8*fw<}7ZlA$j3`N5+d73oTd-{12EdjbB6\;dNn!pq`xP*S]pB`bt?'
 
 
 ALLOWED_HOSTS = ['89.116.21.201']
